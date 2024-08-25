@@ -1,4 +1,4 @@
-rootProject.name = "pandaspigot"
+rootProject.name = "PandaSpigot"
 
 includeBuild("build-logic")
 
